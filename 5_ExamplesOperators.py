@@ -15,6 +15,7 @@ print(n)
 #Example 3
 # Find e^pi v/s pi^e?
 import math
+from re import X
 t = math.e ** math.pi
 p = math.pi ** math.e
 print("e^pi > pi^e ? ", t > p)
@@ -23,3 +24,24 @@ print("e > pi ? ", math.e > math.pi)
 
 #Example 4
 #1. Exchange values inside variables using a dummy variable.
+x = 2
+y = 3
+print (x,y)
+temp = x
+x = y
+y = temp
+print (x,y)
+#2. Exchange values inside variables without using a dummy variable.
+x = 2
+y = 3
+print (x,y)
+x = x + y
+y = x - y
+x = x - y
+print (x,y)
+#3. Exchange values inside variables without using a dummy variable. Using LISTS.
+x = 2
+y = 3
+print (x,y)
+x,y = y,x
+print (x,y)

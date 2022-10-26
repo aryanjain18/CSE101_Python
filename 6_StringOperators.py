@@ -21,6 +21,21 @@ print(z)
 # %s & Its Uses.
 name = "Aryan Jain"
 print("Hello! My Name Is %s" %name) #This Is A Sinle Statement Printed
-# %s = PlaceHolder
-print("Hello My Name Is ", name) #This Is A LIST OF 2 Statements. ie Printed
+# %s = PlaceHolder (ie STRING KE BEECH ME VARIABLE DAALNE KE LIYE)
+print("Hello My Name Is ", name) #This Is A LIST OF 2 Statements. ie element1 = "Hello My Name Is", element2 = name
 
+# in
+print('a' in name) # Yeh letter isme hai ya nhi - TRUE/FALSE
+print('q' in name)
+print('j' in name) # Case Sensitive
+print('J' in name)
+
+#index - yeh wala letter kha pe aarha hai
+y = name.find('y') #Index = {0,1,2,3...}; Index 2 = 3rd Character
+print(y)
+print(name.find ("a"))
+#Print First Name from Full Name
+z = name.find(' ')
+print(name[:z])
+
+# NOTE: For python "" == ''

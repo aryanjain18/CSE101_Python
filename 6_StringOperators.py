@@ -34,8 +34,3 @@ print('J' in name)
 y = name.find('y') #Index = {0,1,2,3...}; Index 2 = 3rd Character
 print(y)
 print(name.find ("a"))
-#Print First Name from Full Name
-z = name.find(' ')
-print(name[:z])
-
-# NOTE: For python "" == ''

@@ -35,7 +35,7 @@ x = x + 2
 print(x)
 x+=2
 print(x)
-x-=3 #x = x-3
+x-=3 #Same As x = x-3
 print(x)
 x = x*3
 print(x)
@@ -45,7 +45,7 @@ x = x/3
 print(x)
 x/=3
 print(x)
-x**=3 #x = x ** 3
+x**=3 #Same As x = x ** 3
 print(x)
-x//=4 #x = x // 4
+x//=4 #Same As x = x // 4
 print(x)

@@ -1,0 +1,1 @@
+{'Aryan': [{'address': 'faridabad', 'phone': '9818529954', 'email': 'aryan22111@iiitd.ac.in'}, {'address': 'IIIT Delhi H1 - 901', 'phone': '7042334977', 'email': 'jainaryan1809@gmail.com'}]}

@@ -1,1 +1,1 @@
-{'Shreyashi': [{'address': 'Qatar', 'phone': '123456789', 'email': 'shreyashi2004@gmail.com'}], 'Aarya': [{'address': 'Gurgaon', 'phone': '509838642', 'email': 'aarya2005k@gmail.com'}], 'Aastha': [{'address': 'Dwarka', 'phone': '98765432s1', 'email': 'aastha22005@iitd.ac.in'}], 'Paras': [{'address': 'Gandhinagar,Delhi', 'phone': '8800832926', 'email': 'paras22350@iiitd.ac.in'}], 'Aryan': [{'address': 'Faridabad, Haryana', 'phone': '9818529954', 'email': 'aryan22111@iiitd.ac.in'}]}
+{'Shreyashi': [{'address': 'Qatar', 'phone': '123456789', 'email': 'shreyashi2004@gmail.com'}]}

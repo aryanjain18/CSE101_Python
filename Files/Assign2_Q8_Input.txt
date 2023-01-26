@@ -1,6 +1,6 @@
-url00, 0.5: this is some text url01 no some other text url05
+url00, 0.5: this is some text url01 no some other text 
 url01, 0.7: this is url04 some text url03 no some other text url03
-url02, 0.4: this is url01 some text url00  no some other text url00 url05
+url02, 0.4: this is url01 some text url00  no some other text url00 
 url03, 0.3: this is url02 some text  no url00 some other text url01
-url04, 0.8: this is url05 some url03 text  no some url02 other url00 text url01
+url04, 0.8: this is some url03 text  no some url02 other url00 text url01
 url05, 0.5: this is url02 some text  no some url01 other text 

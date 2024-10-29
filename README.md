@@ -4,7 +4,7 @@
 CSE101: Introduction to Programming is a 1xx-level course offered to all undergrads at IIIT-Delhi. The course centers around exposing students to fundamentals of programming. It aims to:
 
 - Enable students to understand and design code for minute real world problems
-- - Emphasize problem-solving and practical experience with debugging, compiling, and developing programs.
+- Emphasize problem-solving and practical experience with debugging, compiling, and developing programs.
 - Provide students with essential skills in algorithms, data structures, and program development in Python.
 - Introduce students to Object-Oriented Programming and related concepts like Inheritance and Polymorphism
   
